@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://manokamnasingh1.github.io/todo.git",
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "react-scripts": "0.9.0"
   },
   "dependencies": {
